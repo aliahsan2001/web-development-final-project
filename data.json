@@ -1,0 +1,39 @@
+{
+  "timeline": [
+    {
+      "year": "1986",
+      "description": "ERNET connects universities and research institutions.",
+      "p1": "National Informatics Centre (NIC) initiatives",
+      "p2": "TCP/IP and X.25 protocols",
+      "p3": "Limited to scientists and academics"
+    },
+    {
+      "year": "1995",
+      "description": "VSNL introduces India's first dial-up internet service.",
+      "p1": "First ISP",
+      "p2": "Dial-up access at 9.6 kbps",
+      "p3": "High costs, limited users"
+    },
+    {
+      "year": "1998",
+      "description": "Private ISPs allowed to operate.",
+      "p1": "End of VSNL monopoly",
+      "p2": "Increased competition",
+      "p3": "More affordable internet"
+    },
+    {
+      "year": "2000",
+      "description": "Broadband services begin in India.",
+      "p1": "Faster speeds (DSL, cable)",
+      "p2": "Cybercafés become popular",
+      "p3": "Wider adoption"
+    },
+    {
+      "year": "2022",
+      "description": "5G officially launched in India.",
+      "p1": "Faster speeds and better connectivity",
+      "p2": "Expansion of Digital India program",
+      "p3": "Increased rural internet access"
+    }
+  ]
+}
