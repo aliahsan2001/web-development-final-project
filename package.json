@@ -1,0 +1,18 @@
+{
+  "name": "internet-in-india-timeline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Coursework timeline website with Express and JSON Schema validation.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "cors": "^2.8.5",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}
